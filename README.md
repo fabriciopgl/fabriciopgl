@@ -1,5 +1,5 @@
 ## Hi, welcome to my GitHub profile!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciopgl)](https://github.com/fabriciopgl?tab=repositories)
+[![Top Langs](https://github-readme-stats-five-lovat-40.vercel.app/api/top-langs/?username=fabriciopgl)](https://github.com/fabriciopgl?tab=repositories)
 
 ##
 
